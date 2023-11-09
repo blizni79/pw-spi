@@ -1,0 +1,11 @@
+# ignore directory temp
+/temp
+
+# all directory in folder with name
+temp/
+
+#all file
+*.txt
+
+/temp/*.js
+
