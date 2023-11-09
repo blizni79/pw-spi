@@ -68,7 +68,12 @@ git branch
 
 # usuwanie brancha
 git branch -d nazwa-brancha
+# folders
+ feature, refactor, bugfix, hotfix, release
 
-ffff
 
-
+# add, mod, delete remote url
+git remote -v
+git remote show origin
+git remote rename test test2
+git remote remove test2
