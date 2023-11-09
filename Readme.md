@@ -46,6 +46,10 @@ git commit -m "zmiany"
 git status
 git status -s
 
+# git diff
+git diff --staged
+git diff
+
 # pobranie wszystkich zmian z repo
 git fetch
 
